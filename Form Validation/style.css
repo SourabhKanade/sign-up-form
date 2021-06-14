@@ -1,0 +1,18 @@
+.col-12 {
+    text-align: center;
+}
+
+.question {
+    font-size: large;
+}
+
+.form-check-input {
+    font-size: 10px;
+    position: none;
+    margin-top: 10px;
+    margin-right: 2px;
+}
+
+input[type=checkbox] {
+    transform: scale(2);
+}
